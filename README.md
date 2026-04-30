@@ -37,6 +37,12 @@
 | [Топор Live](https://tgcatalog.org/channel/toporlive) | 4.1M |
 | [СМИ Россия не Москва](https://tgcatalog.org/channel/smi_rf_moskva) | 3.4M |
 
+## Боты Telegram <a name="bots"></a>
+
+| Бот | Описание |
+|-----|----------|
+| [Cyber Collector](https://t.me/cybercollectorbot) | Бесплатный бот для скачивания видео из TikTok (без водяного знака), Instagram Reels/Stories, YouTube и Shorts, X/Twitter, Facebook. Без регистрации и рекламы. [Сайт](https://cybercollector.hitkey.io) |
+
 ## Технологии <a name="tech"></a>
 
 [Все каналы в категории Технологии на TG Catalog](https://tgcatalog.org/category/tech)
